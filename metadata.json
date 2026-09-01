@@ -1,0 +1,6 @@
+{
+  "name": "Quetta State",
+  "description": "AI-powered Real Estate Property Management System with intelligent lead qualification, smart property matching, and visit scheduling for Quetta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
